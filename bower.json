@@ -1,0 +1,16 @@
+{
+  "name": "logplugin",
+  "version": "1.0.1",
+  "authors": [
+    "(halldora <hj02@ru.is> thordur13 <thordur13@ru.is>)"
+  ],
+  "description": "Plugin that listens to users activity on webpage.",
+  "main": "logPlugin.js",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "logplugin"
+  ],
+  "license": "(MIT)"
+}
